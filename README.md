@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **ab6284412** — a backend engineer who prefers boring, working code over clever abstractions.
+I'm **Dawood Bhatti** — a backend engineer and a first-principles thinker. I like slow, boring code that keeps working long after you've stopped thinking about it: data has to stay safe, requests have to stay fast, and tomorrow's deploy shouldn't break because today was clever.
 
 **What I build**
 - Django + DRF backends and mini-SaaS-style products
